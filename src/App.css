@@ -1,0 +1,26 @@
+
+body {
+    background-color: black;
+
+}
+
+.row-content {
+    background-color: black;
+    background: url(https://www.runescape.com/img/rsp777/scroll/backdrop_745.gif) repeat-y top center;
+    padding: 50px 75px;
+    position: relative;
+    text-align: center;
+}
+.searchButton {
+    color: white;
+    display: block;
+    font-size: 1.7em;
+    margin: 3px 0;
+    justify-content: center;
+}
+h5 {
+    color:#6D4211;
+}
+p {
+    color: black;
+}

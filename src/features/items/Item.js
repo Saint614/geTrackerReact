@@ -7,7 +7,7 @@ const Item = ({ item }) => {
       <div className="m-4">
         <h5 className="fw-bold">{name}</h5>
         <p>In-Game Examine Text: {examine}</p>
-        Value: {value}
+        <p>Value: {value}</p>
       </div>
     );
   }
